@@ -7,6 +7,8 @@ fp-info-cache
 *.docx
 
 .idea
+.pio
+.vscode
 /docs/EAD/*.zip
 /docs/EAD/*.kicad_prl
 /docs/Housing/*.FCBak
