@@ -4,12 +4,7 @@ fp-info-cache
 *.FCStd2
 *.FCStd3
 *.lck
-*.docx
 
 .idea
 .pio
-.vscode
-/docs/EAD/*.zip
-/docs/EAD/*.kicad_prl
-/docs/Housing/*.FCBak
-/docs/Housing/*.3mf
+/docs-backup/
