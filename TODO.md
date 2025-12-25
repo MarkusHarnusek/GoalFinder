@@ -1,2 +1,0 @@
- - Rework entire firmware to run on `esp-idf` framework
- - Create documentation based on existing `.md` files and experiences. Also expand it and build it out. Implement translation for MarkDown Doc
