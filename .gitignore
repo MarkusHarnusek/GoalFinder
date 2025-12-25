@@ -1,10 +1,14 @@
-/docs/EAD/LeoIoT_Goalfinder-backups
-fp-info-cache
-*.FCStd1
-*.FCStd2
-*.FCStd3
-*.lck
-
+# General
 .idea
 .pio
 backup/
+
+# FreeCAD
+*.FCStd1
+*.FCStd2
+*.FCStd3
+
+# KiCAD
+fp-info-cache
+Goalfinder-backups
+*.lck
