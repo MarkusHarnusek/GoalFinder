@@ -12,3 +12,4 @@ backup/
 fp-info-cache
 Goalfinder-backups
 *.lck
+\#auto_saved_files#
